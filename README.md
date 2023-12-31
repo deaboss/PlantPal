@@ -13,5 +13,5 @@ All of the code was compiled using the Arduio IDE configured for esp32
 -2 Transistors (for LEDs and water pump)<be>
 
 ## Images
-![Image1](https://github.com/deaboss/PlantPal/blob/main/20230605_064401524_iOS.jpg)
 ![Images2](https://github.com/deaboss/PlantPal/blob/main/IMG_9289.JPG)
+![Image1](https://github.com/deaboss/PlantPal/blob/main/20230605_064401524_iOS.jpg)
