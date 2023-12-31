@@ -5,7 +5,7 @@ Plant Pal is an esp32 Based Smart Plant Pot that can handle all aspects of plant
 
 ## Features
 
-The device features a soil moisture meter, water pump, LED grow lights, and an OLED screen. All of these devices work in unison to take care of your plant. Plant Pal is capable of taking care of many different types of plants.
+The device features a soil moisture meter, water pump, LED grow lights, and an OLED screen. All of these devices work in unison to take care of your plant.
 
 ### Setup
 During setup users will choose between Auto and Custom modes<br>
