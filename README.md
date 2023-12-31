@@ -1,6 +1,6 @@
 #Plant Pal
 
-Plant Pal is an esp32 Based Smart Plant Pot
+Plant Pal is an esp32 Based Smart Plant Pot<br>
 All of the code was compiled using the Arduio IDE configured for esp32
 
 ## Component List
