@@ -1,1 +1,15 @@
-This is an ESP32 based smart plant pot
+#Plant Pal
+
+Plant Pal is an esp32 Based Smart Plant Pot
+All of the code was compiled using the Arduio IDE configured for esp32
+
+## Component List
+
+-[Small Water Pump]([https://pip.pypa.io/en/stable/](https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)
+-USB C Breakout Board
+-LED Grow Lights
+-Monochrome OLED Display (128X32)
+-2 Buttons
+-2 Transistors (for LEDs and water pump)
+
+
