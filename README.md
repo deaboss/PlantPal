@@ -10,5 +10,6 @@ All of the code was compiled using the Arduio IDE configured for esp32
 -LED Grow Lights<br>
 -Monochrome OLED Display (128X32)<br>
 -2 Buttons<br>
--2 Transistors (for LEDs and water pump)<br>
+-2 Transistors (for LEDs and water pump)<be>
 
+![test](https://github.com/deaboss/PlantPal/blob/main/20230605_064401524_iOS.jpg)
