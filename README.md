@@ -10,7 +10,7 @@ The device features a soil moisture meter, water pump, LED grow lights, and an O
 ### Setup
 During setup users will choose between Auto and Custom modes<br>
 Auto provides a much more streamlined setup process while custom allows users to set each function individually. 
-#### Auto Mode
+### Auto Mode
 User Selects between 5 plant types<br>
 -Succulent<br>
 -Broad Leaf<br>
@@ -19,7 +19,7 @@ User Selects between 5 plant types<br>
 -Seedlings<br>
 All settings will be automatically set for the user.
 
-#### Custom Mode
+### Custom Mode
 Users will walk through setting up each function individually.<br>
 1. Hours of sun<br>
 > User sets how many hours of artificial light the plant will get per day<br>
