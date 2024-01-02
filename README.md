@@ -42,7 +42,7 @@ When in use, PlantPal will display current soil humidity and light on/off time.
 -LED Grow Lights<br>
 -Monochrome OLED Display (128X32)<br>
 -2 Buttons<br>
--2 Transistors (for LEDs and water pump)<be>
+-2 Transistors (for LEDs and water pump)<br>
 -Soil Humidity Sensor<br>
 
 ## Images
