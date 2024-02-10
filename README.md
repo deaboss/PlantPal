@@ -14,11 +14,11 @@ During setup users will choose between Auto and Custom modes<br>
 Auto provides a much more streamlined setup process while custom allows users to set each function individually. 
 ### Auto Mode
 User Selects between 5 plant types<br>
--Succulent<br>
--Broad Leaf<br>
--Fern<br>
--Herb<br>
--Seedlings<br>
+- Succulent<br>
+- Broad Leaf<br>
+- Fern<br>
+- Herb<br>
+- Seedlings<br>
 All settings will be automatically set for the user.
 
 ### Custom Mode
@@ -39,13 +39,13 @@ When in use, PlantPal will display current soil humidity and light on/off time.
 
 ## Component List
 
--[Small Water Pump]([https://pip.pypa.io/en/stable/](https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)<br>
--USB C Breakout Board<br>
--LED Grow Lights<br>
--Monochrome OLED Display (128X32)<br>
--2 Buttons<br>
--2 Transistors (for LEDs and water pump)<br>
--Soil Humidity Sensor<br>
+- [Small Water Pump]([https://pip.pypa.io/en/stable/](https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)https://ae01.alicdn.com/kf/S13d096682cce42adb18643b46f7653ebq.jpg_640x640Q90.jpg_.webp)<br>
+- USB C Breakout Board<br>
+- LED Grow Lights<br>
+- Monochrome OLED Display (128X32)<br>
+- 2 Buttons<br>
+- 2 Transistors (for LEDs and water pump)<br>
+- Soil Humidity Sensor<br>
 
 ## Images
 ![Images2](https://github.com/deaboss/PlantPal/blob/main/IMG_9289.JPG)
