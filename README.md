@@ -2,6 +2,7 @@
 All code written by Ethan Dea<br>
 All electronics designed and built by Ethan Dea <br>
 Housing Design by Etienne de Raynal, Noah Dunsmore, and Ethan Dea<br>
+Created in under a quarter <br>
 Plant Pal is an esp32 Based Smart Plant Pot that can handle all aspects of plant care.<br>
 All code was compiled in the Arduino IDE with ESP32 add ons<br>
 
